@@ -15,8 +15,13 @@ public class Main {
         C.colorLights="True";
         C.colorWindows="False";
         C.colorTire="True";
+
         
 
+        Light light = new Light();
+        light.color = "White";
+        light.size = "15cm";
+        light.intensity = "500lumin";
 
     }
 }
