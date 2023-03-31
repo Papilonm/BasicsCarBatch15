@@ -10,6 +10,11 @@ public class Main {
         X.cylinders="8";
         X.size="5200cc";
         X.weight="7574kg";
+
+        Color C=new Color();
+        C.colorLights="True";
+        C.colorWindows="False";
+        C.colorTire="True";
         
 
 
